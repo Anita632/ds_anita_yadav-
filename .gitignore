@@ -1,0 +1,6 @@
+# Ignore large raw/merged datasets
+historical_data.csv
+merged_sentiment_trades.csv
+
+# Allow processed outputs
+csv_files/*.csv
