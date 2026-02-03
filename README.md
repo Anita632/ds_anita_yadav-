@@ -70,3 +70,12 @@ including:
 ---
 
 
+## Tools & Technologies
+- Python  
+- Pandas, NumPy  
+- Matplotlib  
+- Google Colab  
+
+---
+
+
