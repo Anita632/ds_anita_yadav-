@@ -1,6 +1,5 @@
-# Ignore large raw/merged datasets
-historical_data.csv
-merged_sentiment_trades.csv
+# Block all CSVs
+*.csv
 
-# Allow processed outputs
-csv_files/*.csv
+# Allow only summary CSV
+!csv_files/sentiment_summary.csv
